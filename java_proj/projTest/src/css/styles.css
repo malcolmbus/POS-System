@@ -1,0 +1,71 @@
+.login-pane-title{
+    -fx-font-family: sans-serif;
+    -fx-text-align: center;
+    -fx-font-size: 22pt;
+    -fx-font-weight: bold;
+}
+
+.login-pane-vbox{
+    -fx-padding: 10;
+    -fx-border-style: solid outside;
+    -fx-border-width: 1;
+}
+
+.login-pane-labels{
+    -fx-font-family: sans-serif;
+    -fx-text-align: left; 
+    -fx-font-size: 12pt; 
+}
+
+.login-pane-buttons{
+    -fx-font-family: sans-serif;
+    -fx-font-size: 10pt;
+    -fx-padding: 5px 10px;
+    -fx-border-style: solid inside;
+}
+
+.checkout-pane-combobox{
+    -fx-font-family: sans-serif;
+    -fx-font-size: 10pt;
+}
+
+.checkout-pane-search-button{
+    -fx-font-family: sans-serif;
+    -fx-font-size: 10pt;
+    -fx-padding: 5px;
+}
+
+.checkout-pane-select-button{
+    -fx-font-family: sans-serif;
+    -fx-font-size: 10pt;
+    -fx-padding: 5px;
+}
+
+.checkout-pane-remove-button{
+    -fx-font-family: sans-serif;
+    -fx-font-size: 10pt;
+    -fx-padding: 5px;
+}
+
+.checkout-pane-confirm-button{
+    -fx-font-family: sans-serif;
+    -fx-font-size: 10pt;
+    -fx-padding: 5px;
+}
+
+.checkout-pane-check-button{
+    -fx-font-family: sans-serif;
+    -fx-font-size: 10pt;
+    -fx-padding: 5px;
+}
+
+.checkout-pane-label-price{
+    -fx-font-family: sans-serif;
+    -fx-font-size: 12pt;
+    -fx-font-weight: bold;
+}
+
+.table-view-header{
+    -fx-font-family: sans-serif;
+    -fx-font-size: 10pt;
+}
